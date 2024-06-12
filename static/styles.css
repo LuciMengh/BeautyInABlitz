@@ -1,0 +1,52 @@
+.web-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 5rem;
+    color: #7F669D ;
+}
+
+.select-label{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    color: #7469B6 ;
+}
+
+.select-info {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+    color: #E1AFD1 ;
+}
+
+.btn-search {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+    color: #7469B6 ;
+    width: 100px;
+    border-width: 1px;
+    border-color: #7469B6;
+}
+
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2022/09/15/06/14/pattern-7455773_1280.png');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.card-info {
+    background-color: #FFE5E5;
+}
+
+h5 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+    color: #D885A3 ; 
+}
+
+.btn-search2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.2rem;
+    color: #7469B6 ;
+    width: 100px;
+    border-width: 1px;
+    border-color: #7469B6;
+}
